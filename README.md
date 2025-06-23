@@ -1,7 +1,3 @@
-Here's a professional and complete **README description** for your GitHub portfolio project:
-
----
-
 # 💼 Adarsh Sailaka — Developer Portfolio
 
 Welcome to my personal developer portfolio!
