@@ -51,14 +51,3 @@ PortFolio/
 🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-sailaka)
 📂 [GitHub Profile](https://github.com/Adarsh22144t)
 
-## 🤝 Contributing
-
-This is a personal project, but if you'd like to contribute, feel free to fork the repository and submit a pull request.
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Let me know if you'd like to include screenshots or a walkthrough video section too.
