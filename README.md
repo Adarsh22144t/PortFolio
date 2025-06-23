@@ -1,4 +1,64 @@
-# PortFolio_Website
-Complete Portfolio Website with Bootstrap - HTML/CSS In this project, we are going to learn and build how to create a complete portfolio website with bootstrap using HTML and CSS. We will understand everything from scratch. 
+Here's a professional and complete **README description** for your GitHub portfolio project:
 
-## To execute this project just open index.html file in the browser.
+---
+
+# 💼 Adarsh Sailaka — Developer Portfolio
+
+Welcome to my personal developer portfolio!
+This is a responsive and modern website that showcases my projects, skills, achievements, and contact details. Built using HTML, CSS, JavaScript, and Bootstrap, this site is designed to reflect my journey and work as a Computer Science Engineering student and developer.
+
+## 🚀 Features
+
+* ✨ Responsive design compatible with all screen sizes
+* 📂 Project showcase with GitHub links
+* 💬 Contact form integration
+* 📧 Mail link on navbar
+* 🗺 Smooth scrolling and animated transitions
+* 🔍 Filterable project gallery
+* 📜 Resume section with downloadable CV
+* 🎯 Clean and professional UI/UX
+
+## 🛠 Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+* Font Awesome
+
+## 📸 Live Demo
+
+👉 [Check out the live site](https://adarsh22144t.github.io/PortFolio/)
+
+## 📁 Folder Structure
+
+```
+PortFolio/
+│
+├── css/                # All CSS files
+├── images/             # Portfolio images
+├── js/                 # JavaScript functionality
+├── index.html          # Main HTML file
+├── about.html          # About section
+├── contact.html        # Contact section
+└── README.md           # Project description
+```
+
+## 🧑‍💻 Author
+
+**Adarsh Sailaka**
+📧 [adarsh22144t@gmail.com](mailto:adarsh22144t@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-sailaka)
+📂 [GitHub Profile](https://github.com/Adarsh22144t)
+
+## 🤝 Contributing
+
+This is a personal project, but if you'd like to contribute, feel free to fork the repository and submit a pull request.
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+Let me know if you'd like to include screenshots or a walkthrough video section too.
