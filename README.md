@@ -24,7 +24,7 @@ This is a responsive and modern website that showcases my projects, skills, achi
 
 ## 📸 Live Demo
 
-👉 [Check out the live site](https://dancing-pony-c4ec7c.netlify.app/)
+👉 [Check out the live site](https://portfolio-adarshsailaka.netlify.app/)
 
 ## 📁 Folder Structure
 
