@@ -1,5 +1,3 @@
-
-
 /* Global Classes */ 
 
 .title-text{
@@ -120,8 +118,12 @@ button:hover
     top: 0;
     width: 100%;
     z-index: 999;
-    background: white;
-    display: sticky;
+    background: black;
+}
+
+.header_area.scrolled {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
 }
 #hh{
     line-height: 30px;
