@@ -61,4 +61,18 @@ $(document).ready(function () {
 
     navbarFixed();
 
+    // Remove all scroll-based hiding/showing behavior and keep navbar fixed and visible
+
+    const header = document.querySelector('.header_area');
+
+    // Ensure navbar_fixed class is always added to keep navbar fixed
+    header.querySelector('.main-menu').classList.add('navbar_fixed');
+
+    // Remove any hide or scrolled classes to keep navbar visible and consistent
+    header.classList.remove('hide');
+    header.classList.remove('scrolled');
+
+    // Remove scroll event listener if any (no scroll-based changes)
+    // No scroll event listener added here
+
 });
